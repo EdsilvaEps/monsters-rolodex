@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/monsters-holodex/static/css/main.b7f5c471.css",
+    "main.js": "/monsters-holodex/static/js/main.7065742d.js",
+    "static/js/787.3c0c1fc1.chunk.js": "/monsters-holodex/static/js/787.3c0c1fc1.chunk.js",
+    "index.html": "/monsters-holodex/index.html",
+    "main.b7f5c471.css.map": "/monsters-holodex/static/css/main.b7f5c471.css.map",
+    "main.7065742d.js.map": "/monsters-holodex/static/js/main.7065742d.js.map",
+    "787.3c0c1fc1.chunk.js.map": "/monsters-holodex/static/js/787.3c0c1fc1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b7f5c471.css",
+    "static/js/main.7065742d.js"
+  ]
+}
