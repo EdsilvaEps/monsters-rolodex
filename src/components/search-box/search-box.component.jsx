@@ -9,7 +9,7 @@ export const SearchBox = ({ placeholder, handleChange }) => (
     <input 
         className="search"
         type='search' 
-        placeholder={ placeholder } 
+        placeholder= 'search monsters'
         onChange={handleChange} 
         // set state is an assinchronous function call
         //this.setState({searchField: e.target.value})}
